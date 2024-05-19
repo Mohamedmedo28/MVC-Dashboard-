@@ -1,0 +1,73 @@
+﻿@model EmployeeViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Are Ypu Sure Delete This Department ?</h1>
+
+<br />
+<br />
+
+
+<form asp-action="Delete">
+    <div asp-validation-summary="All"></div> @*Exeption عرض *@
+    <div class="form-group">
+        <lable class="col-form-label" asp-for="Name">Name</lable>
+        <input class="form-control" asp-for="Name" type="text" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="Age">Age</lable>
+        <input class="form-control" asp-for="Age" type="text" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="Salary">Salary</lable>
+        <input class="form-control" asp-for="Salary" />
+        <span asp-validation-for="Salary" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="Address">Address</lable>
+        <input class="form-control" asp-for="Address" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="Email">Email</lable>
+        <input class="form-control" asp-for="Email" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="PhoneNumber">PhoneNumber</lable>
+        <input class="form-control" asp-for="PhoneNumber" />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="HireDate">HireDate</lable>
+        <input class="form-control" asp-for="HireDate" />
+        <span asp-validation-for="HireDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="IsActive">IsActive</lable>
+        <input class="form-control" asp-for="IsActive" />
+
+        <span asp-validation-for="IsActive" class="text-danger"></span>
+    </div>
+
+    <input type="submit" value="Delete" class="btn btn-danger" />
+    <a asp-action="Index" class="btn btn-light">Cancel</a>
+
+    <input hidden asp-for="ImageName"/>
+</form>
+

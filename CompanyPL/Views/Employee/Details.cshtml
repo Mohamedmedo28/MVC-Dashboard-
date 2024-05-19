@@ -1,0 +1,74 @@
+﻿@model EmployeeViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1> Employee Details</h1>
+<br />
+<br />
+
+
+
+    <div>
+
+    <div class="form-group">
+        <lable class="col-form-label" asp-for="Name">Name</lable>
+        <input class="form-control" asp-for="Name" type="text" readonly />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="Age">Age</lable>
+        <input class="form-control" asp-for="Age" type="text" readonly />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="Salary">Salary</lable>
+        <input class="form-control" asp-for="Salary" readonly />
+        <span asp-validation-for="Salary" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="Address">Address</lable>
+        <input class="form-control" asp-for="Address" readonly />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="Email">Email</lable>
+        <input class="form-control" asp-for="Email" readonly />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="PhoneNumber">PhoneNumber</lable>
+        <input class="form-control" asp-for="PhoneNumber" readonly />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="HireDate">HireDate</lable>
+        <input class="form-control" asp-for="HireDate" readonly />
+        <span asp-validation-for="HireDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="IsActive">IsActive</lable>
+        <input class="form-control" asp-for="IsActive" readonly />
+
+        <span asp-validation-for="IsActive" class="text-danger"></span>
+    </div>
+
+    <a asp-action="Edit" asp-route-id="id" class="btn btn-secondary">Edit</a>
+
+    <a asp-action="Index" class="btn btn-light">Back To list</a>
+
+  
+    </div>
+

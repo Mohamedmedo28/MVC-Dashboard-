@@ -1,0 +1,39 @@
+D:\BackEnd Route .Net\07MVC\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyBLL.deps.json
+D:\BackEnd Route .Net\07MVC\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyBLL.dll
+D:\BackEnd Route .Net\07MVC\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyBLL.pdb
+D:\BackEnd Route .Net\07MVC\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyDAL.dll
+D:\BackEnd Route .Net\07MVC\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyDAL.pdb
+D:\BackEnd Route .Net\07MVC\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.csproj.AssemblyReference.cache
+D:\BackEnd Route .Net\07MVC\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd Route .Net\07MVC\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.AssemblyInfoInputs.cache
+D:\BackEnd Route .Net\07MVC\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.AssemblyInfo.cs
+D:\BackEnd Route .Net\07MVC\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.csproj.CoreCompileInputs.cache
+D:\BackEnd Route .Net\07MVC\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.csproj.CopyComplete
+D:\BackEnd Route .Net\07MVC\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.dll
+D:\BackEnd Route .Net\07MVC\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.pdb
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyBLL.deps.json
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyBLL.dll
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyBLL.pdb
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyDAL.dll
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyDAL.pdb
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.csproj.AssemblyReference.cache
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.AssemblyInfoInputs.cache
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.AssemblyInfo.cs
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.csproj.CoreCompileInputs.cache
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.csproj.CopyComplete
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.dll
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.pdb
+D:\BackEnd Route .Net\07MVC\project\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyBLL.deps.json
+D:\BackEnd Route .Net\07MVC\project\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyBLL.dll
+D:\BackEnd Route .Net\07MVC\project\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyBLL.pdb
+D:\BackEnd Route .Net\07MVC\project\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyDAL.dll
+D:\BackEnd Route .Net\07MVC\project\CompanyBLL\bin\Debug\netcoreapp3.1\CompanyDAL.pdb
+D:\BackEnd Route .Net\07MVC\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.csproj.AssemblyReference.cache
+D:\BackEnd Route .Net\07MVC\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd Route .Net\07MVC\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.AssemblyInfoInputs.cache
+D:\BackEnd Route .Net\07MVC\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.AssemblyInfo.cs
+D:\BackEnd Route .Net\07MVC\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.csproj.CoreCompileInputs.cache
+D:\BackEnd Route .Net\07MVC\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.csproj.CopyComplete
+D:\BackEnd Route .Net\07MVC\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.dll
+D:\BackEnd Route .Net\07MVC\project\CompanyBLL\obj\Debug\netcoreapp3.1\CompanyBLL.pdb

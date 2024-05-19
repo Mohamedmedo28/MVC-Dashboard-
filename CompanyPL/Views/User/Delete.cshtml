@@ -1,0 +1,47 @@
+﻿@model UserViewModel 
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Are Ypu Sure Delete This User ?</h1>
+<br />
+<br />
+<form asp-action="Delete">
+    <div asp-validation-summary="All"></div>
+    <div class="form-group">
+        <lable class="col-form-label" asp-for="Id">Id</lable>
+        <input class="form-control" asp-for="Id" type="text" />
+        <span asp-validation-for="Id" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="FName">FName</lable>
+        <input class="form-control" asp-for="FName" type="text" />
+        <span asp-validation-for="FName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="LName">LName</lable>
+        <input class="form-control" asp-for="LName" />
+        <span asp-validation-for="LName" class="text-danger"></span>
+    </div>
+     <div class="form-group">
+
+        <lable class="col-form-label" asp-for="Email">Email</lable>
+        <input class="form-control" asp-for="Email" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="PhoneNumber">PhoneNumber</lable>
+        <input class="form-control" asp-for="PhoneNumber" />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+
+    <input type="submit" value="Delete" class="btn btn-danger" />
+    <a asp-action="Index" class="btn btn-light">Cancel</a>
+
+   
+
+</form>

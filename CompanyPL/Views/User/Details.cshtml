@@ -1,0 +1,56 @@
+﻿@model UserViewModel
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1> Users Details</h1>
+<br />
+<br />
+
+
+
+<div>
+
+    <div class="form-group">
+        <lable class="col-form-label" asp-for="Id">Id</lable>
+        <input class="form-control" asp-for="Id" type="text" readonly />
+        <span asp-validation-for="Id" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="FName">FName</lable>
+        <input class="form-control" asp-for="FName" type="text" readonly />
+        <span asp-validation-for="FName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="LName">LName</lable>
+        <input class="form-control" asp-for="LName" readonly />
+        <span asp-validation-for="LName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="Email">Email</lable>
+        <input class="form-control" asp-for="Email" readonly />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="PhoneNumber">PhoneNumber</lable>
+        <input class="form-control" asp-for="PhoneNumber" readonly />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+
+ 
+
+
+    <a asp-action="Edit" asp-route-id="id" class="btn btn-secondary">Edit</a>
+
+    <a asp-action="Index" class="btn btn-light">Back To list</a>
+
+
+</div>

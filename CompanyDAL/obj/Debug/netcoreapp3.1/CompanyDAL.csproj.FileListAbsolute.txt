@@ -1,0 +1,30 @@
+D:\BackEnd Route .Net\07MVC\CompanyDAL\bin\Debug\netcoreapp3.1\CompanyDAL.deps.json
+D:\BackEnd Route .Net\07MVC\CompanyDAL\bin\Debug\netcoreapp3.1\CompanyDAL.dll
+D:\BackEnd Route .Net\07MVC\CompanyDAL\bin\Debug\netcoreapp3.1\CompanyDAL.pdb
+D:\BackEnd Route .Net\07MVC\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.csproj.AssemblyReference.cache
+D:\BackEnd Route .Net\07MVC\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd Route .Net\07MVC\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.AssemblyInfoInputs.cache
+D:\BackEnd Route .Net\07MVC\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.AssemblyInfo.cs
+D:\BackEnd Route .Net\07MVC\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.csproj.CoreCompileInputs.cache
+D:\BackEnd Route .Net\07MVC\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.dll
+D:\BackEnd Route .Net\07MVC\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.pdb
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyDAL\bin\Debug\netcoreapp3.1\CompanyDAL.deps.json
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyDAL\bin\Debug\netcoreapp3.1\CompanyDAL.dll
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyDAL\bin\Debug\netcoreapp3.1\CompanyDAL.pdb
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.csproj.AssemblyReference.cache
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.AssemblyInfoInputs.cache
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.AssemblyInfo.cs
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.csproj.CoreCompileInputs.cache
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.dll
+D:\BackEnd Route .Net\07MVC\Session 3\project\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.pdb
+D:\BackEnd Route .Net\07MVC\project\CompanyDAL\bin\Debug\netcoreapp3.1\CompanyDAL.deps.json
+D:\BackEnd Route .Net\07MVC\project\CompanyDAL\bin\Debug\netcoreapp3.1\CompanyDAL.dll
+D:\BackEnd Route .Net\07MVC\project\CompanyDAL\bin\Debug\netcoreapp3.1\CompanyDAL.pdb
+D:\BackEnd Route .Net\07MVC\project\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.csproj.AssemblyReference.cache
+D:\BackEnd Route .Net\07MVC\project\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd Route .Net\07MVC\project\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.AssemblyInfoInputs.cache
+D:\BackEnd Route .Net\07MVC\project\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.AssemblyInfo.cs
+D:\BackEnd Route .Net\07MVC\project\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.csproj.CoreCompileInputs.cache
+D:\BackEnd Route .Net\07MVC\project\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.dll
+D:\BackEnd Route .Net\07MVC\project\CompanyDAL\obj\Debug\netcoreapp3.1\CompanyDAL.pdb

@@ -1,0 +1,36 @@
+﻿@model RoleViewModel
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1>Edit Role </h1>
+<br />
+<br />
+
+
+<form asp-action="Edit">
+    <div asp-validation-summary="All"></div> @*Exeption عرض *@
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="RoleName">RoleName</lable>
+        <input class="form-control" asp-for="RoleName" type="text" />
+        <span asp-validation-for="RoleName" class="text-danger"></span>
+    </div>
+
+
+
+
+    <input type="submit" value="save" class="btn btn-primary" />
+    <a asp-action="Index" class="btn btn-light">Back To list</a>
+
+
+</form>
+
+
+@section ValidationScriptSection{
+    <partial name="_ValidationScriptsPartial" />
+}
+

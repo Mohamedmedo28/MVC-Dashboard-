@@ -1,0 +1,45 @@
+﻿@model DepartmentViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create New Department</h1>
+<br />
+<br />
+
+<form asp-action="Create" enctype="multipart/form-data">
+    <div class="form-group">
+        <lable class="col-form-label" asp-for="Code">Code</lable>
+        <input class="form-control" asp-for="Code" type="text" />
+        <span asp-validation-for="Code" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="Name">Name</lable>
+        <input class="form-control" asp-for="Name" type="text" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="DateOfCreation">DateOfCreation</lable>
+        <input class="form-control" asp-for="DateOfCreation"  />
+        <span asp-validation-for="Code" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="Image">Image</lable>
+        <input class="form-control" asp-for="Image" />
+        @*   <span asp-validation-for="HireDate" class="text-danger"></span> *@
+    </div>
+
+        <input type="submit" value="submit" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-light">Back To list</a>
+
+  
+</form>
+ @section ValidationScriptSection{
+    <partial name="_ValidationScriptsPartial" />
+} 
+@* <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script> *@

@@ -1,0 +1,49 @@
+﻿@model UserViewModel
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1>Edit User </h1>
+<br />
+<br />
+
+
+<form asp-action="Edit">
+    <div asp-validation-summary="All"></div> @*Exeption عرض *@
+ 
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="FName">FName</lable>
+        <input class="form-control" asp-for="FName" type="text" />
+        <span asp-validation-for="FName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="LName">LName</lable>
+        <input class="form-control" asp-for="LName" />
+        <span asp-validation-for="LName" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-group">
+
+        <lable class="col-form-label" asp-for="PhoneNumber">PhoneNumber</lable>
+        <input class="form-control" asp-for="PhoneNumber" />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+
+  
+
+    <input type="submit" value="save" class="btn btn-primary" />
+    <a asp-action="Index" class="btn btn-light">Back To list</a>
+
+
+</form>
+
+
+@section ValidationScriptSection{
+    <partial name="_ValidationScriptsPartial" />
+}
+
